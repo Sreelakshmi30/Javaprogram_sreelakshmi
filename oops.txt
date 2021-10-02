@@ -1,0 +1,4 @@
+OOPs stands for Object-oriented programming. 
+OOPs in Java organizes a program around the various objects and well-defined interfaces. 
+The OOPs Concepts in Java are abstraction, encapsulation, inheritance, and polymorphism. 
+These concepts aim to implement real-world entities in programs.
